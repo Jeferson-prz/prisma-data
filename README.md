@@ -140,6 +140,3 @@ Developing Prisma Data provided practical experience in:
 This repository is provided for portfolio, evaluation, and demonstration purposes only.
 
 All Rights Reserved.
-=======
-# prisma-data
-Public showcase of Prisma Data, a data governance platform built around ETL, data quality, compliance, and auditing.
