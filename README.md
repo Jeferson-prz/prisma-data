@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prisma Data™
 
 Prisma Data is a data governance platform designed to improve data quality, standardization, auditing, and compliance across datasets of any size. At its core is Prisma Core, the processing engine responsible for the entire data pipeline.
@@ -144,4 +143,3 @@ All Rights Reserved.
 =======
 # prisma-data
 Public showcase of Prisma Data, a data governance platform built around ETL, data quality, compliance, and auditing.
->>>>>>> 0b2660c547dda33b669aee8532c2e133a8d89921
