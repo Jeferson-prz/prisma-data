@@ -132,7 +132,7 @@ Developing Prisma Data provided practical experience in:
 
 - **Portfolio:** [Portfolio](https://jef-dev-portfolio.vercel.app)
 - **GitHub:** [GitHub](https://github.com/Jeferson-prz)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/jeferson-lopes-b4a2a9416)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jeferson-lopes-b4a2a9416)
 - **Email:** jeferson.contact.freela@gmail.com
 
 ## License
